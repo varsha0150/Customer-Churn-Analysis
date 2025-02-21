@@ -1,0 +1,1 @@
+The goal of this project is to analyze customer churn patterns, identify high-risk customer groups, and determine key factors influencing churn. By leveraging data analysis techniques and visualization, we aim to provide actionable insights to improve customer retention.
